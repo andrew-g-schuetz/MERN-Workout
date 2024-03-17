@@ -7,7 +7,7 @@ Backend:
   $ npm i express
 
 Frontend:
-  $ npm i react-router-dom
-  $ npm i date-fns
-  $ npm start
+  $ npm i react-router-dom/
+  $ npm i date-fns/
+  $ npm start/
 
