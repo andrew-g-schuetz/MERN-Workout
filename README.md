@@ -1,9 +1,10 @@
 Starting Project  
 Make sure you are in the proper directories  
 
+cd into MERN-Workout
+
 Backend:  
   cd into backend folder  
-  $ npm init  
   $ npm i express  
   $ npm start  
 
