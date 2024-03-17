@@ -7,6 +7,7 @@ Backend:
   $ npm i express  
 
 Frontend:  
+  cd into frontend folder  
   $ npm i react-router-dom  
   $ npm i date-fns  
   $ npm start  
