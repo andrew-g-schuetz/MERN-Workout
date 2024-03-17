@@ -5,6 +5,7 @@ cd into MERN-Workout
 
 Backend:  
   cd into backend folder  
+  Add port number for node.js and your own Mongo Atlas uri  
   $ npm i express  
   $ npm start  
 
